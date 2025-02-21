@@ -156,13 +156,13 @@ section{
     font-weight: 600;
     margin-bottom: 3rem;
 }
-.hobbies-info{
+.project-info{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 5rem;
 }
-.hobbies img{
+.project img{
     width: 24vw;
     border-radius: 3rem;
 }
